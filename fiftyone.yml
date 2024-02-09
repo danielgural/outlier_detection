@@ -1,0 +1,10 @@
+name: "@danielgural/outlier_detection"
+description: Outlier Detection
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/danielgural/outlier_detection/blob/main/README.md
+license: Apache 2.0
+operators:
+  - outlier_detection
+
