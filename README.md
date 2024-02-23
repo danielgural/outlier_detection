@@ -1,6 +1,6 @@
 ## Outlier Detection
 
-![Outlier Detection](https://github.com/danielgural/semantic_video_search/blob/main/assets/outlier.gif)
+![Outlier Detection](https://github.com/danielgural/outlier_detection/blob/main/assets/outlier.gif)
 
 This plugin is a Python plugin that allows for you to find the outliers in your dataset!
 
